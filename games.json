@@ -1,0 +1,525 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Lucia Magical Potion Shop",
+      "gameUrl": "https://antishow.itch.io/lucias-magickal-potion-shop",
+      "tags": [
+        "Deducción"
+      ],
+      "rate": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Taulu",
+      "gameUrl": "https://kultisti.itch.io/taulu",
+      "tags": [
+        "Bloques",
+        "Grid"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 3,
+      "title": "Her Trees",
+      "gameUrl": "https://stonetreebook.itch.io/her-trees",
+      "tags": [
+        "Exploración",
+        "Rule-Discovery"
+      ],
+      "rate": 3.5
+    },
+    {
+      "id": 4,
+      "title": "Lost in Translation",
+      "gameUrl": "https://featurekreep.itch.io/lost-in-translation",
+      "tags": [
+        "Idiomas",
+        "Narrativa",
+        "Rule-Discovery"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 5,
+      "title": "Courtyard",
+      "gameUrl": "https://parachor.itch.io/courtyard",
+      "tags": [
+        "Exploración",
+        "Grid",
+        "Sokoban"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 6,
+      "title": "Reduce Yourself",
+      "gameUrl": "https://late-nine.itch.io/reduce-yourself",
+      "tags": [
+        "Grid"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 7,
+      "title": "Woodworm",
+      "gameUrl": "https://spratt.itch.io/woodworm-classic",
+      "tags": [
+        "Física",
+        "Grid"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 8,
+      "title": "Alphabet Soup for Picky Eaters",
+      "gameUrl": "https://managore.itch.io/alphabet-soup-for-picky-eaters",
+      "tags": [
+        "Palabras",
+        "Rule-Discovery"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 9,
+      "title": "The Legend of Lumina",
+      "gameUrl": "https://wizbane.itch.io/the-legend-of-lumina",
+      "tags": [
+        "Exploración",
+        "Narrativa",
+        "Sokoban"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 10,
+      "title": "Mimic",
+      "gameUrl": "https://sourencho.itch.io/mimic",
+      "tags": [
+        "Grid",
+        "Rule-Discovery"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 11,
+      "title": "Bee Magic",
+      "gameUrl": "https://epicpikaguy.itch.io/bee-magic",
+      "tags": [
+        "Grid",
+        "Rule-Discovery",
+        "Sokoban"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 12,
+      "title": "Moss Moss",
+      "gameUrl": "https://noelcody.itch.io/moss-moss",
+      "tags": [
+        "Exploración",
+        "Plataformas"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 13,
+      "title": "Illiteracy",
+      "gameUrl": "https://le-slo.itch.io/illiteracy",
+      "tags": [
+        "Palabras",
+        "Rule-Discovery"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 14,
+      "title": "Flying Kick",
+      "gameUrl": "https://st33d.itch.io/flying-kick",
+      "tags": [
+        "Física",
+        "Grid",
+        "Sokoban"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 15,
+      "title": "Sea Magic",
+      "gameUrl": "https://epicpikaguy.itch.io/sea-magic",
+      "tags": [
+        "Grid",
+        "Rule-Discovery",
+        "Sokoban"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 16,
+      "title": "The Archives of Trevosa",
+      "gameUrl": "https://jamwitch.itch.io/trevosa",
+      "tags": [
+        "Deducción",
+        "Narrativa"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 17,
+      "title": "0123456789",
+      "gameUrl": "https://matrix67.itch.io/0123456789",
+      "tags": [
+        "Grid",
+        "Matemáticas",
+        "Rule-Discovery"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 18,
+      "title": "Exactly 7",
+      "gameUrl": "https://matrix67.itch.io/exactly-seven",
+      "tags": [
+        "Matemáticas",
+        "Rule-Discovery"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 19,
+      "title": "Intelligence",
+      "gameUrl": "https://horusvsset.github.io/Intelligence/intelligence.html",
+      "tags": [
+        "Palabras",
+        "Rule-Discovery"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 20,
+      "title": "Increasingly Cursed Knight Puzzles",
+      "gameUrl": "https://koo-koo.itch.io/ickp",
+      "tags": [
+        "Ajedrez",
+        "PDF",
+        "Rule-Discovery"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 21,
+      "title": "Move Counters",
+      "gameUrl": "https://icely.itch.io/move-counters",
+      "tags": [
+        "Grid",
+        "Rule-Discovery"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 22,
+      "title": "Red",
+      "gameUrl": "https://icely.itch.io/red",
+      "tags": [
+        "Deducción",
+        "Descifrar",
+        "Palabras"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 23,
+      "title": "Cat",
+      "gameUrl": "https://icely.itch.io/cat",
+      "tags": [
+        "Deducción",
+        "Idiomas",
+        "Palabras"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 24,
+      "title": "Fractleaf",
+      "gameUrl": "https://notaninart.itch.io/fractleaf",
+      "tags": [
+        "Deducción",
+        "Grid",
+        "Rule-Discovery"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 25,
+      "title": "Mystifying Map",
+      "gameUrl": "https://jinandangor.itch.io/mystifying-map",
+      "tags": [
+        "Deducción",
+        "Exploración"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 26,
+      "title": "The Case of the Dungeon Descent",
+      "gameUrl": "https://jamwitch.itch.io/the-case-of-the-dungeon-descent",
+      "tags": [
+        "Deducción",
+        "Descifrar",
+        "Narrativa"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 27,
+      "title": "0818 Petrichor Lane",
+      "gameUrl": "https://lestavol.itch.io/0818-petrichor-lane",
+      "tags": [
+        "Deducción",
+        "Narrativa"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 28,
+      "title": "Perimeter",
+      "gameUrl": "https://sufferbox.com/perimeter",
+      "tags": [
+        "Grid",
+        "Rule-Discovery",
+        "Scape"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 29,
+      "title": "Sudokuvania",
+      "gameUrl": "https://sudokupad.app/6u61fsw0di?setting-nogrid=1&setting-largepuzzle=1",
+      "tags": [
+        "Exploración",
+        "Rule-Discovery",
+        "Sudoku"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 30,
+      "title": "Number Space",
+      "gameUrl": "https://numberspace.itch.io/v1",
+      "tags": [
+        "Exploración",
+        "Rule-Discovery",
+        "Sudoku"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 31,
+      "title": "Grids",
+      "gameUrl": "https://sophieh.itch.io/sophies-grids",
+      "tags": [
+        "Grid",
+        "Matemáticas"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 32,
+      "title": "Impossible Chess",
+      "gameUrl": "https://bcat112a.itch.io/impossible-chess",
+      "tags": [
+        "Ajedrez",
+        "Rule-Discovery"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 33,
+      "title": "Last Chess Standing",
+      "gameUrl": "https://featurekreep.itch.io/last-chess-standing",
+      "tags": [
+        "Ajedrez",
+        "Deducción"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 34,
+      "title": "Normal Maths",
+      "gameUrl": "https://late-nine.itch.io/normal-maths",
+      "tags": [
+        "Grid",
+        "Matemáticas",
+        "Rule-Discovery"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 35,
+      "title": "Letter Coins",
+      "gameUrl": "https://noblesteedgames.itch.io/letter-coins",
+      "tags": [
+        "Deducción",
+        "PDF",
+        "Palabras"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 36,
+      "title": "Inventive Inventory",
+      "gameUrl": "https://yattytheman.itch.io/inventive-inventory",
+      "tags": [
+        "Narrativa",
+        "Rule-Discovery"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 37,
+      "title": "AAAAXY",
+      "gameUrl": "https://divverent.itch.io/aaaaxy",
+      "tags": [
+        "Exploración",
+        "Plataformas"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 38,
+      "title": "Can You Solve These Equations?",
+      "gameUrl": "https://matrix67.itch.io/can-you-solve-these-equations",
+      "tags": [
+        "Deducción",
+        "Matemáticas"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 39,
+      "title": "Kryptic",
+      "gameUrl": "https://foxchaotica.itch.io/kryptic",
+      "tags": [
+        "Deducción",
+        "Narrativa"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 40,
+      "title": "Rainbow Challenge",
+      "gameUrl": "https://nivrad00.itch.io/rainbow-challenge",
+      "tags": [
+        "Excel",
+        "Rule-Discovery"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 41,
+      "title": "Enigmash",
+      "gameUrl": "https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c",
+      "tags": [
+        "Exploración",
+        "Grid",
+        "Sokoban"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 42,
+      "title": "Windowframe",
+      "gameUrl": "https://managore.itch.io/windowframe",
+      "tags": [
+        "Deducción",
+        "Plataformas"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 43,
+      "title": "Hop & Slide",
+      "gameUrl": "https://managore.itch.io/hopslide",
+      "tags": [
+        "Deducción",
+        "Exploración",
+        "Plataformas"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 44,
+      "title": "Deepest Sword",
+      "gameUrl": "https://cosmicadventuresquad.itch.io/deepest-sword",
+      "tags": [
+        "Exploración",
+        "Plataformas"
+      ],
+      "rate": 5
+    },
+    {
+      "id": 45,
+      "title": "Slider",
+      "gameUrl": "https://randomerz.itch.io/slider",
+      "tags": [
+        "Exploración",
+        "Grid",
+        "Narrativa"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 46,
+      "title": "Gridbender",
+      "gameUrl": "https://knexator.itch.io/gridbender",
+      "tags": [
+        "Bloques",
+        "Grid"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 47,
+      "title": "Spell Scape",
+      "gameUrl": "https://snakebyte36.itch.io/spell-escape",
+      "tags": [
+        "Deducción",
+        "Narrativa",
+        "Palabras"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 48,
+      "title": "Loop + Loop = Loop x 2",
+      "gameUrl": "https://hkmg.itch.io/loopplusloop",
+      "tags": [
+        "Deducción",
+        "Grid",
+        "Matemáticas"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 49,
+      "title": "maKING pi3ce",
+      "gameUrl": "https://makingpi3ce.netlify.app",
+      "tags": [
+        "Ajedrez",
+        "Rule-Discovery"
+      ],
+      "rate": 3
+    },
+    {
+      "id": 50,
+      "title": "Shift Shape",
+      "gameUrl": "https://joszs.itch.io/shift-shape-showcase",
+      "tags": [
+        "Bloques",
+        "Deducción",
+        "Grid"
+      ],
+      "rate": 4
+    }
+  ]
+}
